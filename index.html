@@ -36,7 +36,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '955979960';
+    var serviceWorkerVersion = '1921583086';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -51,6 +51,7 @@
       var loadingIndicator = document.getElementById("loading_indicator");
       if (loadingIndicator) {
         loadingIndicator.remove();
+        window.Telegram.WebApp.expand()
         window.Telegram.WebApp.ready();
       }
     });
