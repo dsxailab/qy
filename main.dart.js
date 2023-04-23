@@ -31731,12 +31731,12 @@ while(true)switch(s){case 0:q.d.a.uD(a)
 return A.a2(null,r)}})
 return A.a3($async$rg,r)},
 Ih(a){var s=null,r=t.E
-return new A.vw(B.vO,new A.dF(B.wx,A.a5O(A.a([new A.ym(A.SH(A.a([B.Gz,A.y2(!1,!0,B.GE,s,!0,s,s,s,s,s,s,s,s,s,new A.ZM(this),s,s,s,s)],r),B.bF,B.cZ,B.c0),s),A.y2(!1,!0,B.GD,s,!0,s,s,s,s,s,s,s,s,s,new A.ZN(this),s,s,s,s),B.GC,A.y2(!1,!0,B.GA,s,!0,s,s,s,s,s,s,s,s,s,new A.ZO(this),s,s,s,s)],r),B.e5,B.cZ),s),s)},
+return new A.vw(B.vO,new A.dF(B.wx,A.a5O(A.a([new A.ym(A.SH(A.a([B.Gz,A.y2(!1,!0,B.GB,s,!0,s,s,s,s,s,s,s,s,s,new A.ZM(this),s,s,s,s)],r),B.bF,B.cZ,B.c0),s),A.y2(!1,!0,B.GE,s,!0,s,s,s,s,s,s,s,s,s,new A.ZN(this),s,s,s,s),B.GD,A.y2(!1,!0,B.GA,s,!0,s,s,s,s,s,s,s,s,s,new A.ZO(this),s,s,s,s)],r),B.e5,B.cZ),s),s)},
 K(a){var s=null
 this.a.toString
 return new A.qD(new A.nI(new A.eR("\u5927\u6e7f\u5144AI\u5b9e\u9a8c\u5ba4",s,s,s,s),new A.FB(s,s,1/0,56),s),A.JN(A.a5O(A.a([this.Ih(a)],t.E),B.bF,B.Ar),s,s),s)}}
 A.ZM.prototype={
-$0(){return A.c9([this.a.rg("@TianjingKeji")],t.H)},
+$0(){return A.c9([this.a.rg("https://t.me/TianjingKeji")],t.H)},
 $S:0}
 A.ZN.prototype={
 $0(){return this.a.kE("\u5927\u5e08\u5144\u6e38\u620f\u70b9\u5361")},
@@ -54423,9 +54423,9 @@ B.CQ=new A.fH(3,"hide")
 B.J2=new A.fH(4,"remove")
 B.t9=new A.fH(5,"timeout")
 B.CR=new A.mm(null,null,null,null,null,null,null,null,null,null)
-B.GB=new A.eR("\u590d\u5236\u6210\u529f",null,null,null,null)
+B.GC=new A.eR("\u590d\u5236\u6210\u529f",null,null,null,null)
 B.wq=new A.b5(4e6)
-B.CS=new A.ki(B.GB,null,null,null,null,null,null,null,null,null,null,B.wq,null,null,B.km,B.a5,null)
+B.CS=new A.ki(B.GC,null,null,null,null,null,null,null,null,null,null,B.wq,null,null,B.km,B.a5,null)
 B.ta=new A.B5(0,"permissive")
 B.J3=new A.B5(1,"normal")
 B.CT=new A.r1(0,"criticallyDamped")
@@ -54678,10 +54678,10 @@ B.Gx=new A.cP(B.F7,B.Gg,B.G_,B.DR,B.FS,B.F0,B.Gk,B.Eh,B.EK,B.FN,B.DM,B.G1,B.FQ,B
 B.Gy=new A.BC(1,"longestLine")
 B.Gz=new A.eR("\u5fae\u4fe1\u652f\u4ed8",null,null,null,null)
 B.GA=new A.eR("\u5728\u804a\u5929\u6846\u91cc\u8f93\u5165#\u5c0f\u7a0b\u5e8f://\u5927\u5e08\u5144\u6e38\u620f/HzdMyU82gj6z31l(\u70b9\u51fb\u590d\u5236)",null,null,null,null)
-B.GC=new A.eR("\u6216\u8005",null,null,null,null)
-B.GD=new A.eR("\u8bf7\u53bb\u5c0f\u7a0b\u5e8f\u641c\u7d22 \u5927\u5e08\u5144\u6e38\u620f\u70b9\u5361 (\u70b9\u51fb\u590d\u5236)",null,null,null,null)
 B.En=new A.m(!0,B.d1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.tj,null,null,null,null,null,null,null,null)
-B.GE=new A.eR("(\u6ca1\u6709\u5361\u5bc6\u627e @TianjingKeji)",null,B.En,null,null)
+B.GB=new A.eR("(\u6ca1\u6709\u5361\u5bc6\u627e https://t.me/TianjingKeji)",null,B.En,null,null)
+B.GD=new A.eR("\u6216\u8005",null,null,null,null)
+B.GE=new A.eR("\u8bf7\u53bb\u5c0f\u7a0b\u5e8f\u641c\u7d22 \u5927\u5e08\u5144\u6e38\u620f\u70b9\u5361 (\u70b9\u51fb\u590d\u5236)",null,null,null,null)
 B.J4=new A.X0(0,"system")
 B.tm=new A.rj(0)
 B.GF=new A.rj(0.5)
