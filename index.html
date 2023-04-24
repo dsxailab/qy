@@ -31,12 +31,26 @@
   <link rel="icon" type="image/png" href="favicon.png" />
 
   <title>大湿兄AI实验室</title>
+  <script>
+    var key = '__telegram__initParams';
+    var params = window.sessionStorage.getItem(key)
+
+    if (!params) {
+      window.sessionStorage.setItem(key,
+        JSON.stringify({ tgWebAppVersion: 6.7 }));
+    } else {
+      var json = JSON.parse(params);
+      json.tgWebAppVersion = 6.7;
+      window.sessionStorage.setItem(key,
+        JSON.stringify(json));
+    }
+  </script>
   <script src="https://telegram.org/js/telegram-web-app.js?1"></script>
   <link rel="manifest" href="manifest.json">
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '3848965149';
+    var serviceWorkerVersion = '2091870742';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
