@@ -33,14 +33,14 @@
   <title>大湿兄AI实验室</title>
   <script>
     var key = '__telegram__initParams';
-    var params = window.sessionStorage.getItem(key)
-
+    var params = window.sessionStorage.getItem(key);
+    var ver = 6.7;
     if (!params) {
       window.sessionStorage.setItem(key,
-        JSON.stringify({ tgWebAppVersion: 6.7 }));
+        JSON.stringify({ tgWebAppVersion: ver }));
     } else {
       var json = JSON.parse(params);
-      json.tgWebAppVersion = 6.7;
+      json.tgWebAppVersion = ver;
       window.sessionStorage.setItem(key,
         JSON.stringify(json));
     }
@@ -50,7 +50,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '2091870742';
+    var serviceWorkerVersion = '2162435133';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
