@@ -3,36 +3,36 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  ".git/COMMITMESSAGE": "d41d8cd98f00b204e9800998ecf8427e",
-".git/config": "896e7bf6a34ddff37ad65f1b8c93cd67",
-".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
-".git/FETCH_HEAD": "a31a7344d7a0e618b4d8efabdf224c0c",
-".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
-".git/hooks/applypatch-msg.sample": "ce562e08d8098926a3862fc6e7905199",
-".git/hooks/commit-msg.sample": "579a3c1e12a1e74a98169175fb913012",
-".git/hooks/fsmonitor-watchman.sample": "a0b2633a2c8e97501610bd3f73da66fc",
-".git/hooks/post-update.sample": "2b7ea5cee3c49ff53d41e00785eb974c",
-".git/hooks/pre-applypatch.sample": "054f9ffb8bfe04a599751cc757226dda",
-".git/hooks/pre-commit.sample": "305eadbbcd6f6d2567e033ad12aabbc4",
-".git/hooks/pre-merge-commit.sample": "39cb268e2a85d436b9eb6f47614c3cbc",
-".git/hooks/pre-push.sample": "2c642152299a94e05ea26eae11993b13",
-".git/hooks/pre-rebase.sample": "56e45f2bcbc8226d2b4200f7c46371bf",
-".git/hooks/pre-receive.sample": "2ad18ec82c20af7b5926ed9cea6aeedd",
-".git/hooks/prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
-".git/hooks/push-to-checkout.sample": "c7ab00c7784efeadad3ae9b228d4b4db",
-".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
-".git/index": "96e19ec588e57b4af2619e94faf36598",
-".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
-".git/logs/HEAD": "16f02459feeb37d4a0dd42d0bf7c7510",
-".git/logs/refs/heads/master": "48e3b26ba59dd6203d12474108e3fb9f",
-".git/logs/refs/remotes/origin/master": "9086782fc9c991c4355fe6cd3505894f",
-".git/objects/33/23d7c218f0a6d1bb7812b97675fc57ff468deb": "4bc44f59d56385b4e7677bd941a00b2c",
-".git/objects/65/426cfd70738372fd277bbeda37455c738eb197": "5716c8e3dc73ffc14cb253b130ae1cbe",
-".git/objects/7c/0be835cd5a4f3abadf85f9a052e9bbd224cb65": "16c471d72fc8ff659e67d745e18fc37e",
-".git/objects/pack/pack-6b7f620582439fd10bb7c68e1f8a7e8cce0701d0.idx": "3fcc0189aebe5fe76e49c000be6902a0",
-".git/objects/pack/pack-6b7f620582439fd10bb7c68e1f8a7e8cce0701d0.pack": "7b24285193658bf48d275b108166885a",
-".git/refs/heads/master": "a080e356b997a22992d8295a3bb10f49",
-".git/refs/remotes/origin/master": "a080e356b997a22992d8295a3bb10f49",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 "assets/AssetManifest.json": "80f0abc0f9a4817883efce43a88d46a6",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
