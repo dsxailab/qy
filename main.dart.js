@@ -40426,7 +40426,7 @@ A.V7.prototype={}
 A.J9.prototype={
 J(a){var s,r,q=A.a([A.aCQ(new A.a4t(),t.u8)],t.Ds),p=A.ap6(null,B.dn,null),o=$.ann(),n=B.b.gM(o),m=A.x(t.N,t.Ab)
 for(s=0;s<2;++s){r=o[s]
-m.n(0,r.a,new A.a4u(r))}return A.aBY(new A.xH(m,n.a,"\u5927\u6e7f\u5144AI\u5b9e\u9a8c\u5ba4-2023.4.29.0203",p,null),q)}}
+m.n(0,r.a,new A.a4u(r))}return A.aBY(new A.xH(m,n.a,"\u5927\u6e7f\u5144AI\u5b9e\u9a8c\u5ba4-2023.4.29.0204",p,null),q)}}
 A.a4t.prototype={
 $1(a){return new A.rD($)},
 $S:300}
@@ -40448,26 +40448,28 @@ A.Bc.prototype={
 aE(){this.aT()
 $.ayM()
 $.EH().agv("mask-result",this.gZj(),!0)},
-Zk(a){var s,r,q,p,o,n=this,m=n.r
-m.toString
-s=n.Hn(m)
-m=n.w
-m.toString
-r=n.Hn(m)
-m=document
-q=m.createElement("div")
+Zk(a){var s,r,q,p,o,n,m=this,l=m.r
+l.toString
+s=m.Hn(l)
+l=m.w
+l.toString
+r=m.Hn(l)
+l=document
+q=l.createElement("div")
 q.id="canvas"
-m=m.createElement("p")
-p=t.gO
-p=A.a(A.a([s,r],p).slice(0),p)
-o=B.Hq.gej(m)
-o.S(0)
-o.O(0,p)
-q.appendChild(m)
+p=l.createElement("p")
+l=l.createElement("button")
+l.textContent="test"
+o=t.gO
+l=A.a(A.a([l,s,r],o).slice(0),o)
+n=B.Hq.gej(p)
+n.S(0)
+n.O(0,l)
+q.appendChild(p)
 return q},
 Hn(a){var s=B.mm.gnL().e2(a),r=A.as1()
 r.src="data:image/png;base64,"+s
-r.width=240
+r.width=320
 r.height=320
 return r},
 J(a){return new A.xU(A.vq(this.Ya(a),null,null),null)},
@@ -82564,7 +82566,7 @@ B.N6=new A.u(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.MK=new A.u(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.NU=new A.e2(B.Mu,B.ND,B.Nm,B.Le,B.Ne,B.Mn,B.NH,B.LF,B.M6,B.N9,B.L9,B.No,B.Nc,B.N6,B.MK)
 B.x5=new A.Af(1,"longestLine")
-B.NW=new A.fJ("\u5927\u6e7f\u5144AI\u5b9e\u9a8c\u5ba4-2023.4.29.0203",null,null,null,null,null,null,null,null)
+B.NW=new A.fJ("\u5927\u6e7f\u5144AI\u5b9e\u9a8c\u5ba4-2023.4.29.0204",null,null,null,null,null,null,null,null)
 B.NX=new A.fJ("\u4e0a\u67b6\u4e2d\uff0c\u656c\u8bf7\u671f\u5f85",null,null,null,null,null,null,null,null)
 B.NZ=new A.fJ("\u8fd4\u56de",null,null,null,null,null,null,null,null)
 B.O_=new A.fJ("\u6253\u5f00\u56fe\u7247",null,null,null,null,null,null,null,null)
