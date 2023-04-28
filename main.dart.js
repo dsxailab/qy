@@ -40732,10 +40732,10 @@ q=A.adG(B.E8)
 p=A.adG(B.Ec)
 o=m.r
 o.toString
-o=A.e5(A.asA(o),640,320)
+o=A.e5(A.asA(o),320,240)
 n=m.w
 n.toString
-return A.pX(A.a([r,q,p,A.adG(A.a([o,A.e5(A.asA(n),640,320)],s))],s),B.aZ,B.b4,B.c1)}else return m.YJ(a)},
+return A.pX(A.a([r,q,p,A.adG(A.a([o,A.e5(A.asA(n),320,240)],s))],s),B.aZ,B.b4,B.c1)}else return m.YJ(a)},
 uy(a){return this.a5A(a)},
 a5A(a){var s=0,r=A.Z(t.H),q=this,p,o,n
 var $async$uy=A.a_(function(b,c){if(b===1)return A.W(c,r)
