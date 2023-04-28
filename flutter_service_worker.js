@@ -205,6 +205,12 @@ const RESOURCES = {
 
 
 
+
+
+
+
+
+
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
@@ -214,14 +220,18 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "84ee6613f9fc5a78c89cadb252c19e44",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1d4686ac99157269f7c65d18819739e6",
-"/": "1d4686ac99157269f7c65d18819739e6",
+"icons/apple-touch-icon.png": "5aec24f1f36724510cafed6c0017a60f",
+"icons/favicon-16x16.png": "84ee6613f9fc5a78c89cadb252c19e44",
+"icons/favicon-32x32.png": "733d5ba3adb992b46956c3b95943a761",
+"icons/favicon.ico": "bad550c4e9b64e08d2e56362a78db31c",
+"icons/Icon-192.png": "f455524da0a95e61604f10443e95c995",
+"icons/Icon-512.png": "717b953a7b301920ef210a72958633ba",
+"icons/Icon-maskable-192.png": "f455524da0a95e61604f10443e95c995",
+"icons/Icon-maskable-512.png": "717b953a7b301920ef210a72958633ba",
+"index.html": "9fc38f9fae2eddf1fbfcd17e6a4cd71a",
+"/": "9fc38f9fae2eddf1fbfcd17e6a4cd71a",
 "main.dart.js": "32bce90c810fba05396557e026aa4269",
 "manifest.json": "ac0e634aa81772bd0a4a529f5dd673fc",
 "version.json": "875beda4bbda2574bb3bd3f0db8dd52b"
