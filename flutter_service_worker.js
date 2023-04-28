@@ -269,6 +269,12 @@ const RESOURCES = {
 
 
 
+
+
+
+
+
+
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
@@ -289,9 +295,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "717b953a7b301920ef210a72958633ba",
 "icons/Icon-maskable-192.png": "f455524da0a95e61604f10443e95c995",
 "icons/Icon-maskable-512.png": "717b953a7b301920ef210a72958633ba",
-"index.html": "1fc21eaa992e2ed935a92e58f660bc75",
-"/": "1fc21eaa992e2ed935a92e58f660bc75",
-"main.dart.js": "14be272fd7c993d5539009a10b5a2e6c",
+"index.html": "da522f4071c5ff100b78be2d8f1dc3c5",
+"/": "da522f4071c5ff100b78be2d8f1dc3c5",
+"main.dart.js": "a132331f5b49fe8cf0a5e6fee4ae32f3",
 "manifest.json": "ac0e634aa81772bd0a4a529f5dd673fc",
 "version.json": "875beda4bbda2574bb3bd3f0db8dd52b"
 };
