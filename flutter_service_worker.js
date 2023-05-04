@@ -647,11 +647,31 @@ const RESOURCES = {
 
 
 
+
+
+
+
+
+
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "fa074c3651f317dc084e667fad514bda",
+"assets/NOTICES": "46e4c73a5dfd32b532bb590c8ad78e0f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/tutorial/drawmask/1.jpg": "036a2650e1a1d4fd146a217baa94205a",
+"assets/tutorial/drawmask/10.jpg": "c8f2ff9eeeec1aca1efffbba4c0f9587",
+"assets/tutorial/drawmask/11.jpg": "5bb6aef7829fbf2ef0236fba112b9835",
+"assets/tutorial/drawmask/12.jpg": "2f484648d08104fe9bb0e3abdc69cd6b",
+"assets/tutorial/drawmask/13.jpg": "7eb6c3218e9d432810e7f2883b17e93f",
+"assets/tutorial/drawmask/14.jpg": "57c378ac98fbb1c5da437e004168821d",
+"assets/tutorial/drawmask/2.jpg": "5c56f91ea918da2d8a5910ed03f5e25f",
+"assets/tutorial/drawmask/3.jpg": "43b4b60048a002a1213fe967f24ec0a3",
+"assets/tutorial/drawmask/4.jpg": "1572a163866bf5ee825b0d3efbce8b8f",
+"assets/tutorial/drawmask/5.jpg": "b3f43f88db13a72a92a6b47759cdef9f",
+"assets/tutorial/drawmask/6.jpg": "beb53ed0180714e1bbf025855aa621a2",
+"assets/tutorial/drawmask/7.jpg": "3df394c8594b8eb41fce3f83793360b2",
+"assets/tutorial/drawmask/8.jpg": "da62a5bb2066aaa5654ed36f2557f60a",
+"assets/tutorial/drawmask/9.jpg": "0a10b2dec2ccdafa7ccb5236de7be1ca",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
@@ -667,9 +687,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "717b953a7b301920ef210a72958633ba",
 "icons/Icon-maskable-192.png": "f455524da0a95e61604f10443e95c995",
 "icons/Icon-maskable-512.png": "717b953a7b301920ef210a72958633ba",
-"index.html": "006118bf0af038ced61c7b9ef58e4b1a",
-"/": "006118bf0af038ced61c7b9ef58e4b1a",
-"main.dart.js": "6ec443d4c3e41d41a117a26109135d33",
+"index.html": "ac17cde7b1f22451314ee6d8e46b52d3",
+"/": "ac17cde7b1f22451314ee6d8e46b52d3",
+"main.dart.js": "f28371df06e5e6da37f9dc189756f809",
 "manifest.json": "ac0e634aa81772bd0a4a529f5dd673fc",
 "version.json": "875beda4bbda2574bb3bd3f0db8dd52b"
 };
