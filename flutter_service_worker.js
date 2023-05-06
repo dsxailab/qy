@@ -33,7 +33,7 @@ const RESOURCES = {
 "assets/tutorial/drawmask/7.jpg": "62badfbcd9be72784c5987f445d6de17",
 "assets/tutorial/drawmask/8.jpg": "da62a5bb2066aaa5654ed36f2557f60a",
 "assets/tutorial/drawmask/9.jpg": "75d55e5ddc0cf90e61d757eb35105be6",
-"assets/tutorial/sendimgwithcaption/1.jpg": "c7ec5260db9ef39f93235542cb79cacd",
+"assets/tutorial/sendimgwithcaption/1.jpg": "2bc9fe4ccf7876df071c244312111794",
 "assets/tutorial/sendimgwithcaption/2.jpg": "28a241e05ed5637c0daff809094070ba",
 "assets/tutorial/sendimgwithcaption/3.jpg": "06fe594370097e38431f0c43bafc7064",
 "assets/tutorial/sendimgwithcaption/4.jpg": "901248a3014399baf77e4f3ab41fe4ba",
@@ -54,9 +54,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "717b953a7b301920ef210a72958633ba",
 "icons/Icon-maskable-192.png": "f455524da0a95e61604f10443e95c995",
 "icons/Icon-maskable-512.png": "717b953a7b301920ef210a72958633ba",
-"index.html": "f16a6dffc87f777384bc9cb4310c5a17",
-"/": "f16a6dffc87f777384bc9cb4310c5a17",
-"main.dart.js": "3dffa2fe6377aeff435db53f3a256441",
+"index.html": "3728d7f09488bde2d877229f4f16b1f4",
+"/": "3728d7f09488bde2d877229f4f16b1f4",
+"main.dart.js": "976ac6ff19e01ea5dddb2d0128b3401e",
 "manifest.json": "ac0e634aa81772bd0a4a529f5dd673fc",
 "version.json": "875beda4bbda2574bb3bd3f0db8dd52b"
 };
